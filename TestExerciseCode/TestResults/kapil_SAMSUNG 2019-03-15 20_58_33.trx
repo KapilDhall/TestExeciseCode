@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c27dfc1e-dc1f-4df3-9ff2-53cd5c9dcb74" name="kapil@SAMSUNG 2019-03-15 20:58:33" runUser="samsung\kapil" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ce3d8ba1-af3b-457d-af3a-83bb4e058e5d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="kapil_SAMSUNG 2019-03-15 20_58_33">
+      <DeploymentItem filename="D:\Test2\TestExeciseCode\TestExerciseCode\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll" />
+      <DeploymentItem filename="D:\Test2\TestExeciseCode\TestExerciseCode\TestExerciseCode\bin\Debug\TestExerciseCode.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-03-15T20:58:33.4811307+05:30" queuing="2019-03-15T20:58:33.6731343+05:30" start="2019-03-15T20:58:33.6891389+05:30" finish="2019-03-15T20:58:34.1491505+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetOutputVersionNegativeTest1" storage="d:\test2\testexecisecode\testexercisecode\testproject1\bin\debug\testproject1.dll" id="4afcbbc2-9779-0583-e43a-864b7040df32">
+      <Execution id="9e749d3c-bebe-4c49-b8de-7cc7386c69f0" />
+      <TestMethod codeBase="D:/Test2/TestExeciseCode/TestExerciseCode/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.ProgramTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetOutputVersionNegativeTest1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4afcbbc2-9779-0583-e43a-864b7040df32" executionId="9e749d3c-bebe-4c49-b8de-7cc7386c69f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9e749d3c-bebe-4c49-b8de-7cc7386c69f0" testId="4afcbbc2-9779-0583-e43a-864b7040df32" testName="GetOutputVersionNegativeTest1" computerName="SAMSUNG" duration="00:00:00.0438157" startTime="2019-03-15T20:58:33.6931344+05:30" endTime="2019-03-15T20:58:34.1331464+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e749d3c-bebe-4c49-b8de-7cc7386c69f0">
+    </UnitTestResult>
+  </Results>
+</TestRun>

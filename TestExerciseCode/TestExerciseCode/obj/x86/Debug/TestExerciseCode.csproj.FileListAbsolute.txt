@@ -5,3 +5,10 @@ D:\Test1\TestExerciseCode\TestExerciseCode\bin\Debug\ThirdPartyTools.pdb
 D:\Test1\TestExerciseCode\TestExerciseCode\obj\x86\Debug\TestExerciseCode.csprojResolveAssemblyReference.cache
 D:\Test1\TestExerciseCode\TestExerciseCode\obj\x86\Debug\TestExerciseCode.exe
 D:\Test1\TestExerciseCode\TestExerciseCode\obj\x86\Debug\TestExerciseCode.pdb
+D:\Test2\TestExeciseCode\TestExerciseCode\TestExerciseCode\obj\x86\Debug\TestExerciseCode.exe
+D:\Test2\TestExeciseCode\TestExerciseCode\TestExerciseCode\obj\x86\Debug\TestExerciseCode.pdb
+D:\Test2\TestExeciseCode\TestExerciseCode\TestExerciseCode\bin\Debug\TestExerciseCode.exe
+D:\Test2\TestExeciseCode\TestExerciseCode\TestExerciseCode\bin\Debug\TestExerciseCode.pdb
+D:\Test2\TestExeciseCode\TestExerciseCode\TestExerciseCode\bin\Debug\ThirdPartyTools.dll
+D:\Test2\TestExeciseCode\TestExerciseCode\TestExerciseCode\bin\Debug\ThirdPartyTools.pdb
+D:\Test2\TestExeciseCode\TestExerciseCode\TestExerciseCode\obj\x86\Debug\TestExerciseCode.csprojResolveAssemblyReference.cache

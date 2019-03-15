@@ -66,7 +66,7 @@ namespace TestProject1
 
 
         /// <summary>
-        ///A test for GetVersion
+        ///This is a test method to check the format of Version info
         ///</summary>
         [TestMethod()]
         public void GetOutputVersionPositiveTest1()
@@ -81,6 +81,9 @@ namespace TestProject1
             Assert.AreEqual(2, count);
         }
 
+        /// <summary>
+        ///This is a test method to check the message if incorrect identifier passed to GetOutput method
+        ///</summary>
         [TestMethod()]
         public void GetOutputVersionNegativeTest1()
         {
@@ -93,7 +96,9 @@ namespace TestProject1
             Assert.AreEqual(expected, actual);
         }
 
-       
+        /// <summary>
+        ///This is a test method to check if exception is properly handled in case of empty value of parameters passed to GetOutput method
+        ///</summary>
         [TestMethod()]
         public void GetOutputExceptionTest()
         {
@@ -119,6 +124,9 @@ namespace TestProject1
             
         }
 
+        /// <summary>
+        ///This is a test method to check the format of Size info
+        ///</summary>
         [TestMethod()]
         public void GetOutputSizePositiveTest1()
         {
@@ -132,6 +140,9 @@ namespace TestProject1
             Assert.AreEqual(0, count);
         }
 
+        /// <summary>
+        ///This is a test method to check the Size info should be int
+        ///</summary>
         [TestMethod()]
         public void GetOutputSizePositiveTest2()
         {
@@ -152,6 +163,9 @@ namespace TestProject1
             
         }
 
+        /// <summary>
+        ///This is a test method to check the message in case of incorrect identifier
+        ///</summary>
         [TestMethod()]
         public void GetOutputSizeNegativeTest1()
         {
