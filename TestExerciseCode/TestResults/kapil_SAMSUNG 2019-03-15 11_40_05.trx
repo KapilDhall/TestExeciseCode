@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="be44e4ad-22e8-47f9-8e28-4531b2122969" name="kapil@SAMSUNG 2019-03-15 11:40:05" runUser="samsung\kapil" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ce3d8ba1-af3b-457d-af3a-83bb4e058e5d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="kapil_SAMSUNG 2019-03-15 11_40_05">
+      <DeploymentItem filename="D:\Test1\TestExerciseCode\TestExerciseCode\bin\Debug\TestExerciseCode.exe" />
+      <DeploymentItem filename="D:\Test1\TestExerciseCode\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-03-15T11:40:05.9852311+05:30" queuing="2019-03-15T11:40:06.0572370+05:30" start="2019-03-15T11:40:06.0612355+05:30" finish="2019-03-15T11:40:06.4252419+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetOutputVersionExceptionTest" storage="d:\test1\testexercisecode\testproject1\bin\debug\testproject1.dll" id="214c8bc4-0300-938b-c296-5bb3d7a7a657">
+      <Execution id="947673f2-a7f1-4ffb-bedd-d52d212957b6" />
+      <TestMethod codeBase="D:/Test1/TestExerciseCode/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.ProgramTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetOutputVersionExceptionTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="214c8bc4-0300-938b-c296-5bb3d7a7a657" executionId="947673f2-a7f1-4ffb-bedd-d52d212957b6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="947673f2-a7f1-4ffb-bedd-d52d212957b6" testId="214c8bc4-0300-938b-c296-5bb3d7a7a657" testName="GetOutputVersionExceptionTest" computerName="SAMSUNG" duration="00:00:00.0264315" startTime="2019-03-15T11:40:06.0652340+05:30" endTime="2019-03-15T11:40:06.4052406+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="947673f2-a7f1-4ffb-bedd-d52d212957b6">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,4 @@
+D:\Test1\TestExerciseCode\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+D:\Test1\TestExerciseCode\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+D:\Test1\TestExerciseCode\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+D:\Test1\TestExerciseCode\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
